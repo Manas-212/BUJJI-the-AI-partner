@@ -1,6 +1,6 @@
 # BUJJI-the-AI-partner
 
-Features
+# Features
 
 1)Tells the current time
 2)Searches anything on Google
@@ -11,12 +11,12 @@ Features
 7)Quits when user says “exit”, “bye”, or “quit”
 
 
-How It Works
+# How It Works
 
 You type a command → BUJJI reads it → performs the action → prints a response
 
 
-Technologies used
+# Technologies used
 
 1)Python 3 
 2)datetime → for getting time 
